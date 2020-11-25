@@ -1,37 +1,76 @@
-## Welcome to GitHub Pages
+王家卫说，人的一生是见天地，见众生，见自己的过程。
 
-You can use the [editor on GitHub](https://github.com/gm0515/gm0515.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+在《卡萨布兰卡》中有一句经典台词：你现在的气质里藏着你，走过的路，读过的书和爱过的人。对于这个观点，我也始终坚信不移。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+人们总喜欢把人生比作旅程，从呱呱坠地出发，到安然入土结束。
 
-### Markdown
+这个比喻巧妙的无可非议。
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+有些人出生就是乘坐飞船火箭的，他的眼里看到的风景是日月盈昃、辰宿列张。
 
-```markdown
-Syntax highlighted code block
+有些人却只能做普快火车，他看到的是风景是山河湖海、风霜雨雪。
 
-# Header 1
-## Header 2
-### Header 3
+有的人的旅途工具则是他的双脚，他回头看到的风景是山高水远、人生百味。
 
-- Bulleted
-- List
+即使假设所有人搭乘同一列火车出发，景色与感触也不尽相同。
 
-1. Numbered
-2. List
+因为心境和眼界天差地别。
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+未来姗姗来迟，过去静立不动。
 
-### Jekyll Themes
+人的一生会遇见很多人，相比于期待遇到对的人，我更愿意祈祷人生的出场顺序 。
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/gm0515/gm0515.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+相濡以沫却厌倦到终老，相忘于江湖却怀念到哭泣。
 
-### Support or Contact
+惊艳了时光或温柔了岁月。
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+我不是一个悲观主义者，只不过什么事都做最坏的打算，也不愿意揭露一些难以启齿的柔弱。
+
+对于生命中那些自行离去的身影，我似乎是需要比同龄人更多的时间去适应和释怀的。但即便如此也无法改变我习惯性被动的诟病。
+
+或许也正因如此，我越来越不愿意重新认识一个人，懒得沟通懒得交流，仿佛是很麻烦的一件事。相比于之前，现在的我就像得了社交恐惧症一般，即使在和朋友交谈中也仅仅偶尔寒暄几句便匆匆结束，只有和关系好的方可大吐心扉。
+
+有人告诉我原因，“你见过最美的一棵树，那棵树不在了，你知道这辈子你都不会再遇见那么美的树了，永远不会，于是你看见森林不再想说话，你低着头，闭着嘴巴”
+
+我停在原地的十字路口止步不前，就像李诞所说的，不知道哪里是前，往哪走都是往前走。
+
+大多数的时间，总是一个人。一个人吃晚餐，一个人上自习，一个人孤军奋战，慢慢的就变成了一种习惯，孤独且寂寞的生活在这座城市里。
+
+直到后来，经历告诉我，你始终要开始尝试着习惯生活中的减法，人也是一样。有生之年，边拥有边清零。
+
+再后来，我开始享受这种一个人的自由。不用陷在红豆不堪看、满眼相思泪的感情中，不必沉入无关紧要的社交里，万事做回自己 。
+
+生活很苦，没有什么可以如愿以偿。
+
+总以为自己是戏外人，却不料早已半身入戏，戏里戏外却丝毫没有存在过的痕迹。
+
+
+
+从量的积累，到质的升华，这于我而言无疑是个痛苦又逐渐成熟的过程，如同很多人无处安放的青春一样。其实大家都一样，我并没有什么不同。
+
+可贵的是，在这之后你再去审视周围发生的一切人事和回顾过去的遭遇时，你的理解就直入深邃，不在停留于浅显。
+
+越长大，越发现家教的重要性。很感谢我的家庭从小对我严厉的教育，不论为人处世还是人情世故都给了我极大的帮助。至少在一部分人眼里，不是一个令人讨厌的人。
+
+以前总期望做个好人，懂礼貌讲客气、待人友善心存感激，事事考虑别人。但我的经历却给我相反的感觉，之后发现，好人不再是个褒义词，只有好人才处于无尽的痛苦之中。还好，现在我也不是什么好人。
+
+不久前的夜晚，本应坐在教室里写英语试卷的我，从考场中逃出来和三个一起"华山论剑"的铁子吃火锅，喝啤酒。自己喝的不过瘾，和邻桌的老大哥对饮，还不尽兴就把火锅店老板拉过来一起畅快淋漓，与深夜的酒般配的恐怕得是凄惨的故事了吧。老板讲他当年北漂的心酸和他迫于现实的无奈而分手的前女友；二狗讲他错过了当年彼此相爱的姑娘(那女孩毕业时交给他一封信，奈何他却丝毫没有勇气拆开，待复学结束后，认识了新女友才回头拆开信，只看到信开头“山有木兮木有枝…………”便将信收起了，可能从此以后再也没有机会拆开了)；有人讲复学的艰苦；到我了，我呢，我的故事又讲到了哪呢?
+
+对酒当歌的夜，这夜的温柔如南墙似晚风。
+
+
+
+倘若生命中遇到对的人就应该好好珍惜才对。但如果不是，你我山前没相见，山后别相逢。我也倒是该洒脱一些了。
+
+
+
+笔砚共我书半生，孤月陪我夜已深。
+
+
+
+晚安
+
+
+转自《知乎》
